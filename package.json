@@ -1,0 +1,8 @@
+{
+   "name": "sly-angular",
+   "version": "1.0.5",
+   "description": "Sly Angular package for AngularJS",
+   "repository": "https://github.com/contentco/angular",
+   "license": "MIT",
+   "main": "scalyr.js"
+}
